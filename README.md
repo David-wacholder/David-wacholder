@@ -6,6 +6,12 @@
 - 😄 Pronouns: He/Him... but "Master of Beginner's Luck" also works.
 - ⚡ Fun fact: I can automate things faster than I can decide what to automate next!
 
+<span align="center">
+
+![my github stats](https://github-readme-stats.vercel.app/api?username=David-wacholder&show_icons=true&theme=radical&custom_title=My+Github+Stat's:)
+![my Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-wacholder&layout=compact&theme=radical&custom_title=Most+used+programming+Languages:)
+
+</span>
 
 <!---
 David-wacholder/David-wacholder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
