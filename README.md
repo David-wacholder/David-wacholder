@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @David-wacholder
-- 👀 I’m interested in code, scripts, and automations that make life a little easier and smarter.
-- 🌱 I’m currently learning the ropes of programming—just getting started but loving the journey!
-- 💞️ I’m looking to collaborate on small, manageable projects that will help me grow and sharpen my skills.
-- 📫 How to reach me: Email is the way to go—quick and easy!
-- 😄 Pronouns: He/Him... but "Master of Beginner's Luck" also works.
-- ⚡ Fun fact: I can automate things faster than I can decide what to automate next!
+# 👋 Hi, I’m @David-wacholder  
+
+- 👀 I’m interested in code, scripts, and automations that make life a little easier and smarter.  
+- 🌱 I’m currently learning the ropes of programming—just getting started but loving the journey!  
+- 💞️ I’m looking to collaborate on small, manageable projects that will help me grow and sharpen my skills.  
+- 📫 How to reach me: Email is the way to go—quick and easy!  
+- 😄 Pronouns: He/Him... but "Master of Beginner's Luck" also works.  
+- ⚡ Fun fact: I can automate things faster than I can decide what to automate next!  
+
+---
+
 
 <span align="center">
 
@@ -12,6 +16,10 @@
 ![my Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-wacholder&layout=compact&theme=radical&custom_title=Most+used+programming+Languages:)
 
 </span>
+
+---
+
+💡 **A programmer is a person who will work 59 minutes to do in a minute what would take him an hour... me too ;)**  
 
 <!---
 David-wacholder/David-wacholder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
