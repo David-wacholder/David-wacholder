@@ -13,13 +13,14 @@
 <span align="center">
 
 ![my github stats](https://github-readme-stats.vercel.app/api?username=David-wacholder&show_icons=true&theme=radical&custom_title=My+Github+Stat's:)
+
 ![my Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-wacholder&layout=compact&theme=radical&custom_title=Most+used+programming+Languages:)
 
 </span>
 
 ---
 
-💡 **A programmer is a person who will work 59 minutes to do in a minute what would take him an hour... me too ;)**  
+#### 💡 **A programmer is a person who will work 59 minutes to do in a minute what would take him an hour... me too ;)**  
 
 <!---
 David-wacholder/David-wacholder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
