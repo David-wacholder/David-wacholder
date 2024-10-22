@@ -14,7 +14,7 @@
 
 ![my github stats](https://github-readme-stats.vercel.app/api?username=David-wacholder&show_icons=true&theme=radical&custom_title=My+Github+Stat's:)
 
-![my Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-wacholder&layout=compact&theme=radical&custom_title=Most+used+programming+Languages:)
+![my Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-wacholder&layout=compact&theme=radical&custom_title=My+Most+used+Languages:)
 
 </span>
 
