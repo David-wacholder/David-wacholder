@@ -12,9 +12,9 @@
 
 <span align="center">
 
-![my github stats](https://github-readme-stats.vercel.app/api?username=David-wacholder&show_icons=true&theme=radical&custom_title=My+Github+Stat's:)
+![my github stats](https://github-readme-stats.vercel.app/api?username=David-wacholder&show_icons=true&theme=radical)
 
-![my Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-wacholder&layout=compact&theme=radical&custom_title=My+Most+used+Languages:)
+![my Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-wacholder&layout=compact&theme=radical)
 
 </span>
 
@@ -25,4 +25,7 @@
 <!---
 David-wacholder/David-wacholder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+&custom_title=My+Github+Stat's:
+&custom_title=My+Most+used+Languages:
 --->
