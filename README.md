@@ -12,9 +12,9 @@
 
 <span align="center">
 
-![my github stats](https://github-readme-stats.vercel.app/api?username=David-wacholder&show_icons=true&theme=radical)
+![my github stats](https://github-readme-stats.vercel.app/api?username=David-wacholder&show_icons=true&theme=transparent)
 
-![my Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-wacholder&layout=compact&theme=radical)
+![my Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-wacholder&layout=compact&theme=transparent)
 
 </span>
 
